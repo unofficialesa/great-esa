@@ -8,7 +8,7 @@ Given that the license policy of Github and fsf is not suitable for non-code pro
 We propose our project -GreatESA- as Composite Work, and the copyright is
 Each individual on the UnofficialESA team has
 
-[Korea Supreme Court Judgment 2004 M639 Performance Ban Provisional Decision]
+[[Korea Supreme Court Judgment 2004 M639 Performance Ban Provisional Decision]](https://www.law.go.kr/precInfoP.do?mode=0&evtNo=2004마639)
 
 This decision is for the prosperity and cooperation of the open source and free software camps, and at the same time, to protect the freedom and rights of members of the UnofficialESA team.
 
@@ -25,4 +25,4 @@ All SourceCode is licensed under the **GNU GENERAL PUBLIC LICENSE 3.0.**
 
 _Non-Source Code_
 
-All NonSourceCode Content has copyright as a separate Composite Work, and licenses can be used according to **Creative Commons [Attribution-Non-Commercial-Share Alike 4.0 Korean License]** unless otherwise stated.
+All NonSourceCode Content has copyright as a separate Composite Work, and licenses can be used according to **Creative Commons [Attribution-Non-Commercial-Share Alike 4.0 Korean License]** UNLESS OTHERWISE STATED.
