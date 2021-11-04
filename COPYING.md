@@ -1,6 +1,8 @@
-All projects, code, files, and documentation in this repository(which is Great-esa) were created by the unofficialESA team's activities, and all activities belong to the unofficialESA team as Composite Work. [`what is Composite Work?`](COPYING.md).
+**All projects, code, files, and documentation in this repository(which is Great-esa) were created by the unofficialESA team's activities, and all activities belong to the unofficialESA team as Composite Work. [`what is Composite Work?`](COPYING.md).**
 
-_Great-esa_
+---
+
+_friedrich der große_
 
 Copyright (C) 2021 Taehun Kim ("potato03kth")
 
@@ -19,9 +21,9 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 ---
 
-_Terrarum Sans Bitmap_
+_asdfasdfasdf_
 
-Copyright (c) 2017-2021 Minjae Song ("CuriousTorvald") and the contributors
+Copyright (c) 2021 Taehun Kim ("potato03kth") and the contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -43,73 +45,31 @@ THE SOFTWARE.
 
 ---
 
-_Joise_
+_The colour of the planet's plant according to the spectural type of it's parent star_
 
-Copyright (C) 2013 Jason Taylor
+Copyright (C) 2021 Daewon Chae, Taehun Kim("potato03kth")
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-     http://www.apache.org/licenses/LICENSE-2.0
+All NonSourceCode Content has copyright as a separate Composite Work, and licenses can be used according to **Creative Commons [Attribution-Non-Commercial-Share Alike 4.0 Korean License]** UNLESS OTHERWISE STATED. [`what is the Composite Work?`](COMPOSITEWORK.md)
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-_Accidental Noise Library_
-
-Joise is a derivative work based on Josua Tippetts' C++ library:
-<http://accidentalnoise.sourceforge.net/index.html>
-
-Copyright (C) 2011 Joshua Tippetts
-
-This software is provided 'as-is', without any express or implied
-warranty. In no event will the authors be held liable for any damages
-arising from the use of this software.
-
-Permission is granted to anyone to use this software for any purpose,
-including commercial applications, and to alter it and redistribute it
-freely, subject to the following restrictions:
-
-1. The origin of this software must not be misrepresented; you must not
-   claim that you wrote the original software. If you use this software
-   in a product, an acknowledgment in the product documentation would be
-   appreciated but is not required.
-2. Altered source versions must be plainly marked as such, and must not be
-   misrepresented as being the original software.
-3. This notice may not be removed or altered from any source distribution.
+This decision is for the prosperity and cooperation of the open source and free software camps, and at the same time, to protect the freedom and rights of members of the UnofficialESA team.
 
 ---
 
-_Vector2.java_, _Epsilon.java_
+_The shitest ppt_
 
-Copyright (c) 2010-2015 William Bittle <http://www.dyn4j.org/>
+Copyright (c) 2021 Hojin Joo
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without modification, are permitted
-provided that the following conditions are met:
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">the shitest ppt</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://blog.naver.com/9oosl" rel="dct:source">https://blog.naver.com/9oosl</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://discordapp.com/users/416844221622779904/" rel="cc:morePermissions">https://discordapp.com/users/416844221622779904/</a>.
 
-- Redistributions of source code must retain the above copyright notice, this list of conditions
-  and the following disclaimer.
-- Redistributions in binary form must reproduce the above copyright notice, this list of conditions
-  and the following disclaimer in the documentation and/or other materials provided with the
-  distribution.
-- Neither the name of dyn4j nor the names of its contributors may be used to endorse or
-  promote products derived from this software without specific prior written permission.
+All NonSourceCode Content has copyright as a separate Composite Work, and licenses can be used according to **Creative Commons [Attribution-Non-Commercial-Share Alike 4.0 Korean License]** UNLESS OTHERWISE STATED. [`what is the Composite Work?`](COMPOSITEWORK.md)
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
-CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
-IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
-OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+This decision is for the prosperity and cooperation of the open source and free software camps, and at the same time, to protect the freedom and rights of members of the UnofficialESA team.
 
-Kotlin translated and modified code Copyright (C) 2016 Minjae Song ("CuriousTorvald")
+english translated and modified Copyright (C) 2021 Taehun Kim ("potato03kth")
+ALL RIGHTS WAIVED.
 
 ---
 
