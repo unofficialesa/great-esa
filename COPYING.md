@@ -1,4 +1,4 @@
-**All projects, code, files, and documentation in this repository(which is Great-esa) were created by the unofficialESA team's activities, and all activities belong to the unofficialESA team as Composite Work. [`what is Composite Work?`](COPYING.md).**
+**All projects, code, files, and documentation in this repository(which is Great-esa) were created by the unofficialESA team's activities, and all activities belong to the unofficialESA team as Composite Work. [`what is Composite Work?`](COMPOSITEWORK.md).**
 
 ---
 
